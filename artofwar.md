@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1127744068693282877/1129636339411853442/artofwar.png)
+![---------------------------------------------------------------------------------------------](https://cdn.discordapp.com/attachments/1127744068693282877/1129636339411853442/artofwar.png "SERVER RULES")
 # **𝐓𝐇𝐄 𝐀𝐑𝐓 𝐎𝐅 𝐖𝐀𝐑**
 ## Heading level 2 **Bolded text**
 ### Heading level 3 **Bolded text**
@@ -8,7 +8,7 @@
 ***H3 Example***
 Example of **Bolded** text.
 Example of *Italicized* text.
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/gEyThGXzBQ</>
+<a id="Si tu est français rejoins nous ! -> Discord">https://discord.gg/gEyThGXzBQ</>
 1. Numbered
 2. List
 3. Support
