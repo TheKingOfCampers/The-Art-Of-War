@@ -1,4 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/1127744068693282877/1129636339411853442/artofwar.png)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 # **𝐓𝐇𝐄 𝐀𝐑𝐓 𝐎𝐅 𝐖𝐀𝐑**
 ## Heading level 2 **Bolded text**
 ### Heading level 3 **Bolded text**
