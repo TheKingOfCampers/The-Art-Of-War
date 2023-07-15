@@ -1,4 +1,4 @@
-![Seymour](https://cdn.discordapp.com/attachments/1127744068693282877/1129634256877011024/artofwar.png)
+![Seymour](https://cdn.discordapp.com/attachments/1127744068693282877/1129635114964492408/artofwar.png)
 # **𝐓𝐇𝐄 𝐀𝐑𝐓 𝐎𝐅 𝐖𝐀𝐑**
 ## Heading level 2 **Bolded text**
 ### Heading level 3 **Bolded text**
