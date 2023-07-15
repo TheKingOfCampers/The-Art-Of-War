@@ -1,15 +1,11 @@
 ![](https://cdn.discordapp.com/attachments/1127744068693282877/1129636339411853442/artofwar.png)
 ![Foo](http://www.google.com.au/images/nav_logo7.png)
-# **𝐓𝐇𝐄 𝐀𝐑𝐓 𝐎𝐅 𝐖𝐀𝐑**
-## Heading level 2 **Bolded text**
-### Heading level 3 **Bolded text**
-#### Heading level 4 **Bolded text**
-*H1 Example*
-**H2 Example**
-***H3 Example***
-Example of **Bolded** text.
-Example of *Italicized* text.
+
+
+# D **𝐓𝐇𝐄 𝐀𝐑𝐓 𝐎𝐅 𝐖𝐀𝐑**
+
 <a id="Si tu est français rejoins nous ! -> Discord">https://discord.gg/gEyThGXzBQ</>
-* Bulleted
-* List
-* Support
+* FFA IN DUEL ZONE -> BAN
+* spawn weapons -> F4
+* * Available TP location -> tp list
+
