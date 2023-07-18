@@ -1,2 +1,1 @@
-![](https://cdn.discordapp.com/attachments/1127744068693282877/1130698467577188382/MOTD-MORDHAU.png)
-<a id="Serveur discord Multi Gaming français - Rejoins nous !">https://discord.gg/gEyThGXzBQ</>
+![](https://cdn.discordapp.com/attachments/1127744068693282877/1130714295466995783/MOTD-MORDHAU-2.png)                         <a id="FRENCH DISCORD">https://discord.gg/gEyThGXzBQ</>
