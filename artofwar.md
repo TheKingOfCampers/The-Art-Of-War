@@ -1,2 +1,1 @@
-[<img src="https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07">][2]
-[2]: https://meta.stackoverflow.com/users/44330/jason-s
+![FRENCH DISCORD](https://cdn.discordapp.com/attachments/1127744068693282877/1130739950548168704/MOTD-MORDHAU-2.png)(https://discord.gg/gEyThGXzBQ)
